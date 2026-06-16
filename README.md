@@ -5,7 +5,7 @@
 
 ## About Me
 Highly analytical software developer with strong engineering-oriented thinking and learning capabilities.  
-Experienced in solving complex problems and developing end-to-end systems, with a strong focus on **hardware verification and system-level projects**.
+Experienced in hardware verification, embedded systems development, and end-to-end software projects, with strong analytical and problem-solving skills.
 
 Graduate of the **KamaTech – Qualcomm Verification Bootcamp**, with hands-on experience building full UVM verification environments.
 
@@ -104,19 +104,25 @@ https://github.com/Yaffi4909/embedded-systems-mentoring
 - Implemented calendar management, treatment tracking, and admin features
 
 ---
-
 ## Technical Skills
-**Verification:**  
-SystemVerilog, UVM, RAL, Functional Coverage, SVA
 
-**Programming Languages:**  
-C, C++, Java, C#, Python, JavaScript, SQL, Assembly
+**Verification:**
+SystemVerilog, UVM, RAL, Functional Coverage, SVA, Verification Planning, Debugging
 
-**Backend & Frontend:**  
+**Embedded Systems & IoT:**
+ESP32, Arduino, FreeRTOS, GPIO, UART, BLE, Wi-Fi, Arduino Cloud, Sensor Integration, Embedded C/C++, Real-Time Systems, IoT Development
+
+**Programming Languages:**
+C, C++, C#, Java, Python, JavaScript, SQL, Assembly, SystemVerilog
+
+**Backend & Frontend:**
 .NET Core, Node.js, React, Angular, REST APIs
 
-**Tools & Environments:**  
-Git, Linux, Docker, VS Code, OpenCV, Bash, CMake, Cadence Xcelium
+**Tools & Environments:**
+Git, GitHub, Linux, Docker, VS Code, OpenCV, Bash, CMake, Cadence Xcelium
+
+**Software Engineering:**
+Object-Oriented Programming (OOP), Data Structures, Algorithms, Multithreading, Software Design, Debugging, Version Control
 
 ---
 
