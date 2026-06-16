@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yaffi Yud
 
-💻 Software Developer | Junior Verification Engineer  
+💻 Software & Embedded Developer | Verification Engineer  
 📍 Israel
 
 ## About Me
@@ -50,6 +50,45 @@ Graduate of the **KamaTech – Qualcomm Verification Bootcamp**, with hands-on e
 - Applied **multithreading** for smoother gameplay
 - Cross-platform support (Windows & WSL)
 - Organized a scalable and maintainable codebase using **CMake**
+
+---
+
+### 🔧 Embedded Systems Mentoring Projects
+
+**ESP32 | Arduino | FreeRTOS | Wi-Fi | BLE | IoT** *(2026)*
+
+Repository: https://github.com/Yaffi4909/embedded-systems-mentoring
+
+A collection of hands-on embedded systems projects developed throughout an intensive mentoring program, covering real-world IoT and microcontroller development.
+
+Key topics and projects include:
+
+* Traffic light controller implementation
+* RGB LED control and GPIO programming
+* UART communication between embedded devices
+* FreeRTOS task management and queue-based communication
+* DHT22 temperature and humidity monitoring
+* Arduino Cloud integration for remote monitoring and control
+* Bluetooth Low Energy (BLE) sensor communication
+* Wi-Fi connectivity and HTTP-based communication
+* Sensor data acquisition and processing
+* Embedded software architecture and modular design
+
+Technologies used:
+
+* ESP32
+* Arduino Framework
+* FreeRTOS
+* Wi-Fi
+* BLE
+* Arduino Cloud
+* C / C++
+* Git & GitHub
+
+The repository demonstrates practical experience in embedded software development, real-time systems, wireless communication, and IoT application design.
+
+GitHub Repository:
+https://github.com/Yaffi4909/embedded-systems-mentoring
 
 ---
 
